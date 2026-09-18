@@ -10,6 +10,7 @@ Projek ini adalah program C++ sederhana untuk mensimulasikan eliminasi astronot 
    * Kalau nomor astronotnya **Genap**, nilai `k` ditambah 2.
    * Kalau nomor astronotnya **Ganjil**, nilai `k` dikurang 1.
    * Nilai `k` ga boleh kurang dari 2, kalau kurang bakal dipaksa balik ke 2.
+   *
  5.Proses di atas bakal diulang-ulang terus lewat *looping*. Kalau astronotnya sisa 1 orang, dialah pemenangnya.
 
 
