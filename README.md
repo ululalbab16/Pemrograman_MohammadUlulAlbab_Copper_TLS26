@@ -1,8 +1,5 @@
  Astronot
 
-Projek ini adalah program C++ sederhana untuk mensimulasikan eliminasi astronot secara melingkar (mirip konsep *Josephus Problem*). Program dibuat menggunakan fungsi buatan sendiri (**User-Defined Function**) dan dibuat tanpa bantuan library `<vector>` (murni pakai array biasa dan dikelola manual).
-
-
 1.  Program bakal bikin array yang diisi nomor astronot dari 1 sampai `n` sesuai input.
 2.  Program bakal menghitung siapa yang harus keluar pakai rumus modulo `(indeks_sekarang + k - 1) % ukuran_sisa`. Rumus ini dipakai biar urutan hitungannya bisa muter terus kayak lingkaran.
 3. Karena ga boleh pakai vector, astronot yang kalah dihapus manual dengan cara menggeser semua astronot di sebelah kanannya ke kiri, lalu ukuran total array dikurangi 1.
