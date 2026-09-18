@@ -1,8 +1,8 @@
-# Simulasi Seleksi Astronot 🚀
+Simulasi Seleksi Astronot
 
 Projek ini adalah program C++ sederhana untuk mensimulasikan eliminasi astronot secara melingkar (mirip konsep *Josephus Problem*). Program dibuat menggunakan fungsi buatan sendiri (**User-Defined Function**) dan dibuat tanpa bantuan library `<vector>` (murni pakai array biasa dan dikelola manual).
 
-## 📌 Alur & Cara Kerja Program
+Alur & Cara Kerja Program
 
  alur berpikir program ini dibagi jadi beberapa tahap:
 
